@@ -1,0 +1,36 @@
+Territorios agrupados:
+
+1. Granja 1  
+2. Granja 2
+3. Margaritas 6
+4. Angeles 1
+5. Angeles 2
+6. Barrio La Hoya(Territorio 1)
+7. Barrio el centro(Territorio 2)
+8. Boulevard Los Poetas (Terr. # 3)
+9. Mina Guifarro(Terr. # 4)
+10. Boulevard Los Poetas(Terr. # 6)
+11. Col. La Alhambra (Terr. # 7)
+12. Barrio Chacón Terr. # 8
+13. Las Margaritas(Terr. # 11)
+14. Col. Lobo Sosa(Terr. # 16)
+15. La Meneca
+16. Col. Los Robles Terr. # 23
+17. Col. Daniel Sánchez Terr. # 24
+18. Col. Bella Vista Terr. # 25
+19. Col. Nazareth
+(Terri. # 26)
+20. Bo. La Cofradía (Terr. # 32)
+
+
+
+
+
+Apuntes: Colonia Lobo Sosa y Meneca disputan una cuadra con degradado a transparente. Corregir. Ademas, cuadra montada sobre otra.
+
+
+
+
+
+
+
